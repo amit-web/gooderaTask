@@ -1,0 +1,1 @@
+//Key is bigger than array of i  then i  update my (low = high) and then (high= high*2)
